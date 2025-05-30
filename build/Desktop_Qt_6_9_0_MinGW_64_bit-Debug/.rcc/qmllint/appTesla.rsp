@@ -1,0 +1,21 @@
+--bare
+-I
+D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Tesla.qrc
+--resource
+D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTesla_raw_qml_0.qrc
+D:/Qt Projects/TeslaUI/Main.qml
+D:/Qt Projects/TeslaUI/ui/BottomBar/BottomBar.qml
+D:/Qt Projects/TeslaUI/ui/LeftScreen/LeftScreen.qml
+D:/Qt Projects/TeslaUI/ui/RightScreen/RightScreen.qml
+D:/Qt Projects/TeslaUI/ui/RightScreen/Navigation.qml
+D:/Qt Projects/TeslaUI/ui/BottomBar/HVACComponent.qml
+D:/Qt Projects/TeslaUI/ui/BottomBar/VolumeController.qml
+D:/Qt Projects/TeslaUI/ui/BottomBar/Icons.qml
+D:/Qt Projects/TeslaUI/ui/BottomBar/LeftIcons.qml
+D:/Qt Projects/TeslaUI/ui/BottomBar/RightIcons.qml
+D:/Qt Projects/TeslaUI/ui/LeftScreen/Battery.qml
+D:/Qt Projects/TeslaUI/ui/LeftScreen/IndicatorBar.qml

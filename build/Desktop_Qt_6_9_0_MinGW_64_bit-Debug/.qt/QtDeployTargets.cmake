@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appTesla_FILE D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTesla.exe)
+set(__QT_DEPLOY_TARGET_appTesla_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appTesla_RUNTIME_DLLS C:/Qt/6.9.0/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.9.0/mingw_64/bin/Qt6Core.dll)

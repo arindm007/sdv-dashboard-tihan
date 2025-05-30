@@ -1,0 +1,16 @@
+--resource
+D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Tesla.qrc
+--resource
+D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTesla_raw_qml_0.qrc
+/Tesla/Main.qml
+/Tesla/ui/BottomBar/BottomBar.qml
+/Tesla/ui/LeftScreen/LeftScreen.qml
+/Tesla/ui/RightScreen/RightScreen.qml
+/Tesla/ui/RightScreen/Navigation.qml
+/Tesla/ui/BottomBar/HVACComponent.qml
+/Tesla/ui/BottomBar/VolumeController.qml
+/Tesla/ui/BottomBar/Icons.qml
+/Tesla/ui/BottomBar/LeftIcons.qml
+/Tesla/ui/BottomBar/RightIcons.qml
+/Tesla/ui/LeftScreen/Battery.qml
+/Tesla/ui/LeftScreen/IndicatorBar.qml

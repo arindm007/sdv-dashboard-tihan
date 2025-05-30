@@ -1,0 +1,16 @@
+module Tesla
+typeinfo appTesla.qmltypes
+prefer :/Tesla/
+Main 1.0 Main.qml
+BottomBar 1.0 ui/BottomBar/BottomBar.qml
+LeftScreen 1.0 ui/LeftScreen/LeftScreen.qml
+RightScreen 1.0 ui/RightScreen/RightScreen.qml
+Navigation 1.0 ui/RightScreen/Navigation.qml
+HVACComponent 1.0 ui/BottomBar/HVACComponent.qml
+VolumeController 1.0 ui/BottomBar/VolumeController.qml
+Icons 1.0 ui/BottomBar/Icons.qml
+LeftIcons 1.0 ui/BottomBar/LeftIcons.qml
+RightIcons 1.0 ui/BottomBar/RightIcons.qml
+Battery 1.0 ui/LeftScreen/Battery.qml
+IndicatorBar 1.0 ui/LeftScreen/IndicatorBar.qml
+

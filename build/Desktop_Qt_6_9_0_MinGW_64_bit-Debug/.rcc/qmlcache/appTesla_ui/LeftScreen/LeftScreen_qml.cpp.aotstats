@@ -1,0 +1,236 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 207,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 14,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "Cannot access value for name bottomBar",
+                        "functionName": "bottom",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name rightScreen",
+                        "functionName": "right",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 102
+                    }
+                ],
+                "filepath": "LeftScreen.qml"
+            }
+        ],
+        "moduleId": "Tesla(appTesla)"
+    }
+]

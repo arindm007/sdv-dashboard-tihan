@@ -1,0 +1,140 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 362,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 145,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 610,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 308,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 46
+                    }
+                ],
+                "filepath": "LeftIcons.qml"
+            }
+        ],
+        "moduleId": "Tesla(appTesla)"
+    }
+]

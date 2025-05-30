@@ -1,0 +1,92 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 32
+                    }
+                ],
+                "filepath": "Battery.qml"
+            }
+        ],
+        "moduleId": "Tesla(appTesla)"
+    }
+]

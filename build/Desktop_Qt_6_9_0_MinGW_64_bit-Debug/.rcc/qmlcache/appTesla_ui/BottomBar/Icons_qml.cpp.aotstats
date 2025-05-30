@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 402,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 615,
+                        "errorMessage": "Cannot access value for name moreItemsIcon",
+                        "functionName": "left",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 4193,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 12
+                    }
+                ],
+                "filepath": "Icons.qml"
+            }
+        ],
+        "moduleId": "Tesla(appTesla)"
+    }
+]

@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="/Tesla/">
+    <file alias="Main.qml">D:/Qt Projects/TeslaUI/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">D:/Qt Projects/TeslaUI/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">D:/Qt Projects/TeslaUI/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">D:/Qt Projects/TeslaUI/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/RightScreen/Navigation.qml">D:/Qt Projects/TeslaUI/ui/RightScreen/Navigation.qml</file>
+    <file alias="ui/BottomBar/HVACComponent.qml">D:/Qt Projects/TeslaUI/ui/BottomBar/HVACComponent.qml</file>
+    <file alias="ui/BottomBar/VolumeController.qml">D:/Qt Projects/TeslaUI/ui/BottomBar/VolumeController.qml</file>
+    <file alias="ui/BottomBar/Icons.qml">D:/Qt Projects/TeslaUI/ui/BottomBar/Icons.qml</file>
+    <file alias="ui/BottomBar/LeftIcons.qml">D:/Qt Projects/TeslaUI/ui/BottomBar/LeftIcons.qml</file>
+    <file alias="ui/BottomBar/RightIcons.qml">D:/Qt Projects/TeslaUI/ui/BottomBar/RightIcons.qml</file>
+    <file alias="ui/LeftScreen/Battery.qml">D:/Qt Projects/TeslaUI/ui/LeftScreen/Battery.qml</file>
+    <file alias="ui/LeftScreen/IndicatorBar.qml">D:/Qt Projects/TeslaUI/ui/LeftScreen/IndicatorBar.qml</file>
+    <file alias="assets/Car.jpeg">D:/Qt Projects/TeslaUI/assets/Car.jpeg</file>
+    <file alias="assets/carIcon.png">D:/Qt Projects/TeslaUI/assets/carIcon.png</file>
+    <file alias="assets/lock.png">D:/Qt Projects/TeslaUI/assets/lock.png</file>
+    <file alias="assets/Car.jpeg">D:/Qt Projects/TeslaUI/assets/Car.jpeg</file>
+    <file alias="assets/carIcon.png">D:/Qt Projects/TeslaUI/assets/carIcon.png</file>
+    <file alias="assets/lock.png">D:/Qt Projects/TeslaUI/assets/lock.png</file>
+    <file alias="assets/search.png">D:/Qt Projects/TeslaUI/assets/search.png</file>
+    <file alias="assets/volume-up-interface-symbol.png">D:/Qt Projects/TeslaUI/assets/volume-up-interface-symbol.png</file>
+    <file alias="assets/mediumVolume.png">D:/Qt Projects/TeslaUI/assets/mediumVolume.png</file>
+    <file alias="assets/audio.png">D:/Qt Projects/TeslaUI/assets/audio.png</file>
+    <file alias="assets/calendar.png">D:/Qt Projects/TeslaUI/assets/calendar.png</file>
+    <file alias="assets/camera-lens.png">D:/Qt Projects/TeslaUI/assets/camera-lens.png</file>
+    <file alias="assets/itunes.png">D:/Qt Projects/TeslaUI/assets/itunes.png</file>
+    <file alias="assets/line.png">D:/Qt Projects/TeslaUI/assets/line.png</file>
+    <file alias="assets/more.png">D:/Qt Projects/TeslaUI/assets/more.png</file>
+    <file alias="assets/phone-call.png">D:/Qt Projects/TeslaUI/assets/phone-call.png</file>
+    <file alias="assets/spotify.png">D:/Qt Projects/TeslaUI/assets/spotify.png</file>
+    <file alias="assets/video.png">D:/Qt Projects/TeslaUI/assets/video.png</file>
+    <file alias="assets/carRender.jpeg">D:/Qt Projects/TeslaUI/assets/carRender.jpeg</file>
+    <file alias="assets/battery1.png">D:/Qt Projects/TeslaUI/assets/battery1.png</file>
+    <file alias="assets/battery2.png">D:/Qt Projects/TeslaUI/assets/battery2.png</file>
+    <file alias="assets/car-indicator.png">D:/Qt Projects/TeslaUI/assets/car-indicator.png</file>
+    <file alias="assets/car-indicator1.png">D:/Qt Projects/TeslaUI/assets/car-indicator1.png</file>
+    <file alias="assets/car-indicator2.png">D:/Qt Projects/TeslaUI/assets/car-indicator2.png</file>
+    <file alias="assets/car-indicator3.png">D:/Qt Projects/TeslaUI/assets/car-indicator3.png</file>
+    <file alias="assets/seatbelt.png">D:/Qt Projects/TeslaUI/assets/seatbelt.png</file>
+    <file alias="assets/seatbelt.png">D:/Qt Projects/TeslaUI/assets/seatbelt.png</file>
+    <file alias="assets/warning.png">D:/Qt Projects/TeslaUI/assets/warning.png</file>
+    <file alias="assets/unlock.png">D:/Qt Projects/TeslaUI/assets/unlock.png</file>
+    <file alias="assets/Bus.png">D:/Qt Projects/TeslaUI/assets/Bus.png</file>
+  </qresource>
+</RCC>
+

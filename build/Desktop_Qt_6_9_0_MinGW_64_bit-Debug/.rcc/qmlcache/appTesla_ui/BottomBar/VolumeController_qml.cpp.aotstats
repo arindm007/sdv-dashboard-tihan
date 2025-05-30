@@ -1,0 +1,148 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 405,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name fontColor",
+                        "functionName": "color",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 164,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 85,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 108,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name fontColor",
+                        "functionName": "color",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 60
+                    }
+                ],
+                "filepath": "VolumeController.qml"
+            }
+        ],
+        "moduleId": "Tesla(appTesla)"
+    }
+]
