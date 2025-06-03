@@ -6,58 +6,218 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 379,
+                        "durationMicroseconds": 1370,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 12
+                        "line": 18
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 104,
+                        "column": 16,
+                        "durationMicroseconds": 67,
                         "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 13
+                        "functionName": "width",
+                        "line": 19
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 123,
+                        "durationMicroseconds": 130,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 8
+                        "line": 14
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 112,
+                        "durationMicroseconds": 189,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 10
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "opacity",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot access value for name iconHoverOpacity",
+                        "functionName": "onEntered",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "onExited",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 211,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 30
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 159,
+                        "durationMicroseconds": 189,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 24
+                        "line": 51
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 88,
+                        "column": 16,
+                        "durationMicroseconds": 71,
                         "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 25
+                        "functionName": "width",
+                        "line": 52
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 134,
+                        "durationMicroseconds": 115,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 20
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "opacity",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "Cannot access value for name iconHoverOpacity",
+                        "functionName": "onEntered",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "onExited",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 80
                     },
                     {
                         "codegenSuccessfull": true,
@@ -65,71 +225,167 @@
                         "durationMicroseconds": 108,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 22
+                        "line": 82
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 152,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 36
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 85,
-                        "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 37
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
+                        "column": 23,
                         "durationMicroseconds": 110,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 32
+                        "functionName": "fillMode",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "opacity",
+                        "line": 92
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 29,
-                        "durationMicroseconds": 102,
+                        "column": 27,
+                        "durationMicroseconds": 66,
                         "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 34
+                        "functionName": "fill",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name iconHoverOpacity",
+                        "functionName": "onEntered",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "onExited",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 153,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 96
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 174,
+                        "durationMicroseconds": 141,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 48
+                        "line": 117
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 72,
+                        "column": 16,
+                        "durationMicroseconds": 47,
                         "errorMessage": "",
-                        "functionName": "fillMode",
-                        "line": 49
+                        "functionName": "width",
+                        "line": 118
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 121,
+                        "durationMicroseconds": 140,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 44
+                        "line": 113
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 127,
+                        "durationMicroseconds": 90,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 46
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 359,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 123
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "opacity",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 419,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 241,
+                        "errorMessage": "Cannot access value for name iconHoverOpacity",
+                        "functionName": "onEntered",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "Cannot access value for name iconOpacity",
+                        "functionName": "onExited",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 452,
+                        "errorMessage": "method calendarClicked cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 129
                     }
                 ],
                 "filepath": "RightIcons.qml"

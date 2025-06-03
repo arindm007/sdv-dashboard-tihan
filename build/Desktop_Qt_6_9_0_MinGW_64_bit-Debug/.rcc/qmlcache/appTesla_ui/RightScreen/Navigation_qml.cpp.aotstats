@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 396,
+                        "durationMicroseconds": 306,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 18
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 119,
+                        "durationMicroseconds": 104,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 19
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 153,
+                        "durationMicroseconds": 115,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 13
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 117,
+                        "durationMicroseconds": 96,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 15
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 160,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "visible",
                         "line": 26
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 138,
+                        "durationMicroseconds": 100,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 30
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 111,
+                        "durationMicroseconds": 113,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 31
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 120,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 40
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 138,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 41
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 112,
+                        "durationMicroseconds": 98,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 42
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 99,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 43

@@ -12,6 +12,7 @@
     <file alias="ui/BottomBar/RightIcons.qml">D:/Qt Projects/TeslaUI/ui/BottomBar/RightIcons.qml</file>
     <file alias="ui/LeftScreen/Battery.qml">D:/Qt Projects/TeslaUI/ui/LeftScreen/Battery.qml</file>
     <file alias="ui/LeftScreen/IndicatorBar.qml">D:/Qt Projects/TeslaUI/ui/LeftScreen/IndicatorBar.qml</file>
+    <file alias="ui/CalendarPopup.qml">D:/Qt Projects/TeslaUI/ui/CalendarPopup.qml</file>
     <file alias="assets/Car.jpeg">D:/Qt Projects/TeslaUI/assets/Car.jpeg</file>
     <file alias="assets/carIcon.png">D:/Qt Projects/TeslaUI/assets/carIcon.png</file>
     <file alias="assets/lock.png">D:/Qt Projects/TeslaUI/assets/lock.png</file>

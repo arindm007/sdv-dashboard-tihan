@@ -13,4 +13,5 @@ LeftIcons 1.0 ui/BottomBar/LeftIcons.qml
 RightIcons 1.0 ui/BottomBar/RightIcons.qml
 Battery 1.0 ui/LeftScreen/Battery.qml
 IndicatorBar 1.0 ui/LeftScreen/IndicatorBar.qml
+CalendarPopup 1.0 ui/CalendarPopup.qml
 

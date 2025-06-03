@@ -1,4 +1,7 @@
 import QtQuick
+import QtQuick.Controls
+import QtLocation
+import QtPositioning
 
 Rectangle {
     id: leftScreen
@@ -6,38 +9,36 @@ Rectangle {
         left: parent.left
         top: parent.top
         bottom: bottomBar.top
-        right: rightScreen.left
+        right: parent.right
     }
     color: "#141414"
 
-    //        color: "white"
+    // Left (car render, indicators, battery, etc.)
     Image {
         id: carRender
         anchors.centerIn: parent
-        width: parent.width * .75
+        width: parent.width * 0.25
         fillMode: Image.PreserveAspectFit
-        //source: "qrc:Tesla/assets/Car.jpeg"
         source: "qrc:Tesla/assets/Bus.png"
     }
 
-    //    Battery{
-    //        id: batteryDetails
-    //        anchors{
-    //            right: parent.right
-    //            top: parent.top
-    //        }
-    //        height: parent.height * .069
-    //        width: parent.width * .2
-    //    }
+    Image {
+        id: dummyBelowBus
+        anchors.top: carRender.bottom
+        anchors.horizontalCenter: carRender.horizontalCenter
+        anchors.topMargin: 100
+        width: carRender.width * 1.5 // increase size by 50%
+        fillMode: Image.PreserveAspectFit
+        source: "qrc:Tesla/assets/dummy.png"
+    }
+
     Image {
         id: battery
-        //        anchors.fill: parent * .50
         anchors {
             top: parent.top
             right: parent.right
-            //            bottom: batteryPercentage.bottom
         }
-        width: parent.width / 6
+        width: parent.width / 12
         height: parent.height / 12
         fillMode: Image.PreserveAspectFit
         source: "qrc:Tesla/assets/battery1.png"
@@ -50,21 +51,15 @@ Rectangle {
             bottom: battery.bottom
             right: battery.left
         }
-        width: parent.width * .1
+        width: parent.width * 0.05
         color: "#141414"
 
         Text {
             id: batteryPercentage
-            anchors {
-                //                right: battery.left
-                //            top: battery.top
-                //            bottom: battery.bottom
-                verticalCenter: parent.verticalCenter
-            }
+            anchors.verticalCenter: parent.verticalCenter
             text: "50%"
             color: "white"
-            font.pixelSize: 14 * (leftScreen.width / 300)
-            //            height: parent.height * .69
+            font.pixelSize: 18
         }
     }
 
@@ -80,7 +75,7 @@ Rectangle {
             leftMargin: 30
             bottomMargin: 10
         }
-        width: parent.width / 6
+        width: parent.width / 24
         fillMode: Image.PreserveAspectFit
         source: "qrc:Tesla/assets/warning.png"
     }
@@ -93,14 +88,57 @@ Rectangle {
             leftMargin: 12
             verticalCenter: seatBealtWarning.verticalCenter
         }
-
         text: "Fasten your seatbelt!"
-        font.pixelSize: 14 * (leftScreen.width / 300)
+        font.pixelSize: 18
         font.bold: true
         color: "#8B8B88"
-
-        Component.onCompleted: console.log(height)
-
         verticalAlignment: Text.AlignVCenter
+    }
+
+    Item {
+        id: overlay
+        anchors.fill: parent
+
+        Row {
+            id: topLeftRow
+            anchors {
+                left: parent.left
+                top: parent.top
+                margins: 10
+            }
+            spacing: 40
+            z: 1
+
+            Image {
+                id: carLocked
+                width: parent.width / 40
+                fillMode: Image.PreserveAspectFit
+                source: "qrc:Tesla/assets/lock.png"
+            }
+
+            Text {
+                id: dateTimeDisplay
+                font.pixelSize: 18
+                font.bold: true
+                color: "white"
+                text: "11:58"
+            }
+
+            Text {
+                id: temperatureDisplay
+                font.pixelSize: 18
+                font.bold: true
+                color: "white"
+                text: "27°C"
+            }
+
+            Text {
+                id: profileDisplay
+                font.pixelSize: 18
+                font.bold: true
+                color: "white"
+                text: "Vishnu-Alamuri"
+            }
+        }
     }
 }

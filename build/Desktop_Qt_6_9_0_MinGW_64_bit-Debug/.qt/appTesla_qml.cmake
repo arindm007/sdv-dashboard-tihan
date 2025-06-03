@@ -26,6 +26,8 @@ set(src_and_dest_list
     "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/ui/LeftScreen/Battery.qml"
     "D:/Qt Projects/TeslaUI/ui/LeftScreen/IndicatorBar.qml"
     "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/ui/LeftScreen/IndicatorBar.qml"
+    "D:/Qt Projects/TeslaUI/ui/CalendarPopup.qml"
+    "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/ui/CalendarPopup.qml"
 
 )
 set(timestamp_file "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_qml.txt")

@@ -6,15 +6,15 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 12,
-                        "durationMicroseconds": 433,
+                        "durationMicroseconds": 408,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 6
+                        "line": 7
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 16,
-                        "durationMicroseconds": 181,
+                        "durationMicroseconds": 2049,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 17
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 126,
+                        "durationMicroseconds": 130,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 12
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 90,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 13
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 90,
+                        "durationMicroseconds": 109,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 14
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 59,
                         "errorMessage": "Cannot access value for name fontColor",
                         "functionName": "color",
                         "line": 22
@@ -54,82 +54,122 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 78,
+                        "durationMicroseconds": 417,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 23
                     },
                     {
                         "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 212,
+                        "errorMessage": "Cannot access value for name targetTemp",
+                        "functionName": "onClicked",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name targetTemp",
+                        "functionName": "text",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 22,
                         "errorMessage": "Cannot access value for name fontColor",
                         "functionName": "color",
-                        "line": 38
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 124,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 33
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 29,
-                        "durationMicroseconds": 99,
-                        "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 34
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 164,
-                        "errorMessage": "",
-                        "functionName": "width",
-                        "line": 51
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 19,
-                        "durationMicroseconds": 116,
-                        "errorMessage": "",
-                        "functionName": "left",
                         "line": 45
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 1394,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 226,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 116,
+                        "durationMicroseconds": 117,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 46
+                        "line": 53
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 47
+                        "line": 54
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 35,
                         "errorMessage": "Cannot access value for name fontColor",
                         "functionName": "color",
-                        "line": 56
+                        "line": 63
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 59,
+                        "durationMicroseconds": 65,
                         "errorMessage": "",
                         "functionName": "centerIn",
-                        "line": 57
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "Cannot access value for name targetTemp",
+                        "functionName": "onClicked",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 70
                     }
                 ],
                 "filepath": "HVACComponent.qml"

@@ -1,20 +1,18 @@
 import QtQuick
 import QtQuick.Window
+import QtQuick.Controls
 
 import "ui/BottomBar"
-
 import "ui/LeftScreen"
-import "ui/RightScreen"
 
+//import "ui/CalendarPopup"
+
+// <<-- New import
 Window {
     width: 900
     height: 450
     title: qsTr("Tesla")
     visible: true
-
-    RightScreen {
-        id: rightScreen
-    }
 
     LeftScreen {
         id: leftScreen
@@ -22,19 +20,19 @@ Window {
 
     BottomBar {
         id: bottomBar
+        Component.onCompleted: {
+            bottomBar.rightIcons.calendarClicked.connect(calendarPopup.open)
+        }
+    }
+
+    //    CalendarPopup {
+    //        id: calendarPopup
+    //    }
+    Component.onCompleted: {
+        // Connect signal once UI is ready
+        bottomBar.rightIcons.children[1].MouseArea.onClicked = function () {
+            console.log("Calendar icon clicked - showing popup")
+            calendarPopup.open()
+        }
     }
 }
-/*import QtQuick
-import QtQuick.Window
-import QtLocation
-
-Window {
-    visible: true
-    width: 400
-    height: 300
-
-    Component.onCompleted: {
-        console.log("Available plugins:", Plugin.availableServiceProviders)
-    }
-}*/
-
