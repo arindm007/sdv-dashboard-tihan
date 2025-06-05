@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/tihan/Desktop/tihan-dashboard-main
+-cmake-output
+-output-file
+C:/Users/tihan/Desktop/tihan-dashboard-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTesla_conf.cmake
+-importPath
+C:/Users/tihan/Desktop/tihan-dashboard-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla
+-importPath
+C:/Users/tihan/Desktop/tihan-dashboard-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+C:/Users/tihan/Desktop/tihan-dashboard-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Tesla.qrc
+C:/Users/tihan/Desktop/tihan-dashboard-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appTesla_raw_qml_0.qrc

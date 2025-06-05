@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Qt Google Maps View</title>
+    <style>
+        html, body, #map {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAvl3V1mSuOx_XnjIJ4hwbL2w49C6suCIg"></script> -->
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAvl3V1mSuOx_XnjIJ4hwbL2w49C6suCIg&callback=initMap"></script>
+
+    <script>
+        function initMap() {
+            const center = { lat: 37.7749, lng: -122.4194 };
+            const map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 14,
+                center: center,
+                mapTypeId: 'roadmap'
+            });
+            new google.maps.Marker({
+                position: center,
+                map: map,
+                title: "San Francisco"
+            });
+        }
+        window.onload = initMap;
+    </script>
+</head>
+<body>
+    <div id="map"></div>
+</body>
+</html>

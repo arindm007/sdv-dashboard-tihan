@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 12,
+                        "durationMicroseconds": 168,
+                        "errorMessage": "Cannot access value for name carRender",
+                        "functionName": "width",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 9
+                    }
+                ],
+                "filepath": "Musicplayer.qml"
+            }
+        ],
+        "moduleId": "Tesla(appTesla)"
+    }
+]

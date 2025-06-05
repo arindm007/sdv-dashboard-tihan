@@ -1,0 +1,50 @@
+<RCC>
+  <qresource prefix="/Tesla/">
+    <file alias="Main.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/RightScreen/Navigation.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/RightScreen/Navigation.qml</file>
+    <file alias="ui/BottomBar/HVACComponent.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/BottomBar/HVACComponent.qml</file>
+    <file alias="ui/BottomBar/VolumeController.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/BottomBar/VolumeController.qml</file>
+    <file alias="ui/BottomBar/Icons.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/BottomBar/Icons.qml</file>
+    <file alias="ui/BottomBar/LeftIcons.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/BottomBar/LeftIcons.qml</file>
+    <file alias="ui/BottomBar/RightIcons.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/BottomBar/RightIcons.qml</file>
+    <file alias="ui/LeftScreen/Battery.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/LeftScreen/Battery.qml</file>
+    <file alias="ui/LeftScreen/IndicatorBar.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/LeftScreen/IndicatorBar.qml</file>
+    <file alias="ui/LeftScreen/Musicplayer.qml">C:/Users/tihan/Desktop/tihan-dashboard-main/ui/LeftScreen/Musicplayer.qml</file>
+    <file alias="assets/Car.jpeg">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/Car.jpeg</file>
+    <file alias="assets/carIcon.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/carIcon.png</file>
+    <file alias="assets/lock.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/lock.png</file>
+    <file alias="assets/search.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/search.png</file>
+    <file alias="assets/volume-up-interface-symbol.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/volume-up-interface-symbol.png</file>
+    <file alias="assets/mediumVolume.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/mediumVolume.png</file>
+    <file alias="assets/audio.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/audio.png</file>
+    <file alias="assets/calendar.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/calendar.png</file>
+    <file alias="assets/camera-lens.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/camera-lens.png</file>
+    <file alias="assets/itunes.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/itunes.png</file>
+    <file alias="assets/line.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/line.png</file>
+    <file alias="assets/more.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/more.png</file>
+    <file alias="assets/phone-call.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/phone-call.png</file>
+    <file alias="assets/spotify.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/spotify.png</file>
+    <file alias="assets/video.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/video.png</file>
+    <file alias="assets/carRender.jpeg">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/carRender.jpeg</file>
+    <file alias="assets/battery1.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/battery1.png</file>
+    <file alias="assets/battery2.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/battery2.png</file>
+    <file alias="assets/car-indicator.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/car-indicator.png</file>
+    <file alias="assets/car-indicator1.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/car-indicator1.png</file>
+    <file alias="assets/car-indicator2.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/car-indicator2.png</file>
+    <file alias="assets/car-indicator3.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/car-indicator3.png</file>
+    <file alias="assets/seatbelt.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/seatbelt.png</file>
+    <file alias="assets/warning.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/warning.png</file>
+    <file alias="assets/unlock.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/unlock.png</file>
+    <file alias="assets/Bus.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/Bus.png</file>
+    <file alias="assets/play.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/play.png</file>
+    <file alias="assets/prev.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/prev.png</file>
+    <file alias="assets/next.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/next.png</file>
+    <file alias="assets/album.jpg">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/album.jpg</file>
+    <file alias="assets/dummy.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/dummy.png</file>
+    <file alias="assets/navi.png">C:/Users/tihan/Desktop/tihan-dashboard-main/assets/navi.png</file>
+  </qresource>
+</RCC>
+
