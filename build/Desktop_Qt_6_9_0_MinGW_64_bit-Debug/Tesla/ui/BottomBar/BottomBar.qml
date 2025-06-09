@@ -2,6 +2,7 @@ import QtQuick
 
 Rectangle {
     id: bottomBar
+    property alias rightIcons: rightIcons
     anchors {
         left: parent.left
         right: parent.right

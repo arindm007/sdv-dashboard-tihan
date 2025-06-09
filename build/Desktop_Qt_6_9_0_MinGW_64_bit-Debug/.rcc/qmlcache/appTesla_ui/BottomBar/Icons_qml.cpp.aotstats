@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 378,
+                        "durationMicroseconds": 733,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 14
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 376,
+                        "durationMicroseconds": 144,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 15
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 391,
+                        "durationMicroseconds": 552,
                         "errorMessage": "Cannot access value for name moreItemsIcon",
                         "functionName": "left",
                         "line": 10
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 122,
+                        "durationMicroseconds": 147,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 12

@@ -43,6 +43,9 @@
     <file alias="assets/warning.png">D:/Qt Projects/TeslaUI/assets/warning.png</file>
     <file alias="assets/unlock.png">D:/Qt Projects/TeslaUI/assets/unlock.png</file>
     <file alias="assets/Bus.png">D:/Qt Projects/TeslaUI/assets/Bus.png</file>
+    <file alias="assets/play.png">D:/Qt Projects/TeslaUI/assets/play.png</file>
+    <file alias="assets/next.png">D:/Qt Projects/TeslaUI/assets/next.png</file>
+    <file alias="assets/backward.png">D:/Qt Projects/TeslaUI/assets/backward.png</file>
   </qresource>
 </RCC>
 

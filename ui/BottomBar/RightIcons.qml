@@ -69,6 +69,7 @@ Item {
 
             onClicked: {
                 console.log("Calendar icon clicked")
+                calendarClicked() // <-- emit here
             }
         }
     }
@@ -102,6 +103,7 @@ Item {
 
             onClicked: {
                 console.log("iTunes icon clicked")
+                Qt.openUrlExternally("https://www.itunes.com")
             }
         }
     }
@@ -135,7 +137,7 @@ Item {
 
             onClicked: {
                 console.log("Spotify icon clicked")
-                calendarClicked()
+                Qt.openUrlExternally("https://www.spotify.com")
             }
         }
     }

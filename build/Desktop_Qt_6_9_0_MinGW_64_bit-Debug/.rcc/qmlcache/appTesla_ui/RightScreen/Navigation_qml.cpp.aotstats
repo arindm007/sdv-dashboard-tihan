@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 17,
-                        "durationMicroseconds": 306,
+                        "durationMicroseconds": 442,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 18
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 104,
+                        "durationMicroseconds": 132,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 19
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 13
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 96,
+                        "durationMicroseconds": 131,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 15
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 142,
+                        "durationMicroseconds": 199,
                         "errorMessage": "",
                         "functionName": "visible",
                         "line": 26
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 141,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 30
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 113,
+                        "durationMicroseconds": 133,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 31
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 82,
+                        "durationMicroseconds": 100,
                         "errorMessage": "",
                         "functionName": "verticalAlignment",
                         "line": 47
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 105,
+                        "durationMicroseconds": 124,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 40
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 138,
+                        "durationMicroseconds": 128,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 41
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 171,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 42
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 125,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 43

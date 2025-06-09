@@ -62,6 +62,12 @@ set(src_and_dest_list
     "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/assets/unlock.png"
     "D:/Qt Projects/TeslaUI/assets/Bus.png"
     "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/assets/Bus.png"
+    "D:/Qt Projects/TeslaUI/assets/play.png"
+    "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/assets/play.png"
+    "D:/Qt Projects/TeslaUI/assets/next.png"
+    "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/assets/next.png"
+    "D:/Qt Projects/TeslaUI/assets/backward.png"
+    "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/assets/backward.png"
 
 )
 set(timestamp_file "D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_res.txt")

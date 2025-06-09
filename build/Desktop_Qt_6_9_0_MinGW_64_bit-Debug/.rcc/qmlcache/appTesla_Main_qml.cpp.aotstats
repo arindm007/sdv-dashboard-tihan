@@ -1,28 +1,2 @@
 [
-    {
-        "moduleFiles": [
-            {
-                "entries": [
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 32,
-                        "durationMicroseconds": 521,
-                        "errorMessage": "Cannot load property rightIcons from .",
-                        "functionName": "onCompleted",
-                        "line": 23
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 28,
-                        "durationMicroseconds": 955,
-                        "errorMessage": "Cannot load property rightIcons from .",
-                        "functionName": "onCompleted",
-                        "line": 31
-                    }
-                ],
-                "filepath": "Main.qml"
-            }
-        ],
-        "moduleId": "Tesla(appTesla)"
-    }
 ]

@@ -4,7 +4,8 @@ project(Tesla VERSION 0.1 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-find_package(Qt6 6.4 REQUIRED COMPONENTS Quick)
+find_package(Qt6 6.4 REQUIRED COMPONENTS Quick QuickControls2 Qml)
+
 
 qt_standard_project_setup()
 
@@ -43,6 +44,10 @@ qt_add_qml_module(appTesla
     RESOURCES assets/seatbelt.png assets/warning.png
     RESOURCES assets/unlock.png
     RESOURCES assets/Bus.png
+    RESOURCES assets/play.png
+    RESOURCES assets/next.png
+    RESOURCES assets/backward.png
+
     QML_FILES ui/CalendarPopup.qml
 )
 
@@ -59,6 +64,7 @@ set_target_properties(appTesla PROPERTIES
 
 target_link_libraries(appTesla
     PRIVATE Qt6::Quick
+    PRIVATE Qt6::QuickControls2  # <== This is key!
 )
 
 include(GNUInstallDirs)

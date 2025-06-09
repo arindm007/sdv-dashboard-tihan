@@ -1,183 +1,127 @@
 # ninja log v6
-266	392	7705445562865929	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.aotstats	869336706baa59dc
-97	340	7706347057347694	.qt/appTesla_qml.txt	746d7b65ed4d55e7
-354	489	7705448270185027	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
-477	580	7705434839708332	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesla_debug_metatypes.json	7e330e39da81727a
-69	230	7706348164835389	appTesla_autogen/mocs_compilation.cpp	330a89908d385f67
-97	340	7706347057347694	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_qml.txt	746d7b65ed4d55e7
-29	158	7705434835382665	.qt/appTesla_res.txt	2581dc1f7f46341e
-405	2472	7705446352056686	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.obj	7933fca8fda85086
-265	388	7705444533405162	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp	dc26a5e3b61ed801
-107	8472	7706347138682255	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
-69	230	7706348164835389	appTesla_autogen/timestamp	330a89908d385f67
-939	1153	7705434845082776	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp	4265a3f1b182f2eb
-580	932	7705434842606846	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptesla_qmltyperegistrations.cpp	3a60e057cd5f82b3
-963	1194	7705434845458087	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.aotstats	8f7f74fe5b9fe235
-963	1194	7705434845458087	.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp	8f7f74fe5b9fe235
-266	392	7705445562865929	.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp	869336706baa59dc
-29	158	7705434835382665	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_res.txt	2581dc1f7f46341e
-990	1272	7705434846489448	.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.aotstats	d5559f032e90b917
-107	8472	7706347138682255	.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
-69	230	7706348164835389	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTesla_autogen/timestamp	330a89908d385f67
-69	230	7706348164835389	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTesla_autogen/mocs_compilation.cpp	330a89908d385f67
-429	476	7705434838674747	.qt/rcc/qrc_qmake_Tesla.cpp	a372fcb4d7a5b34a
-472	2410	7705447182665138	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.obj	bc944ce302f880f
-429	476	7705434838674747	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Tesla.cpp	a372fcb4d7a5b34a
-963	1194	7705434845458087	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp	8f7f74fe5b9fe235
-231	274	7706348166581336	meta_types/appTesla_json_file_list.txt	80ed7935742ef57c
-1408	5574	7705434848088494	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.obj	b839203794e1205f
-231	274	7706348166581336	meta_types/appTesla_json_file_list.txt.timestamp	80ed7935742ef57c
-231	274	7706348166581336	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTesla_json_file_list.txt	80ed7935742ef57c
-231	274	7706348166581336	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTesla_json_file_list.txt.timestamp	80ed7935742ef57c
-436	512	7705434838983262	.rcc/qmlcache/appTesla_qmlcache_loader.cpp	4fbf25535b1f05bc
-8478	8799	7706347142016604	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
-955	1194	7705434845498191	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.aotstats	2dfdeee868d42cde
-436	512	7705434838983262	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_qmlcache_loader.cpp	4fbf25535b1f05bc
-477	580	7705434839708332	meta_types/qt6apptesla_debug_metatypes.json	7e330e39da81727a
-8472	8865	7706347142637338	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp	45e01b95e7515c79
-8478	8799	7706347142016604	.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
-353	472	7705447182482874	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.aotstats	8238bb443189a05a
-477	580	7705434839708332	meta_types/qt6apptesla_debug_metatypes.json.gen	7e330e39da81727a
-477	580	7705434839708332	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesla_debug_metatypes.json.gen	7e330e39da81727a
-580	932	7705434842606846	apptesla_qmltyperegistrations.cpp	3a60e057cd5f82b3
-955	1194	7705434845498191	.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp	2dfdeee868d42cde
-963	1194	7705434845458087	.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.aotstats	8f7f74fe5b9fe235
-580	932	7705434842606846	Tesla/appTesla.qmltypes	3a60e057cd5f82b3
-8472	8865	7706347142637338	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp.aotstats	45e01b95e7515c79
-580	932	7705434842606846	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/appTesla.qmltypes	3a60e057cd5f82b3
-939	1153	7705434845082776	.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp	4265a3f1b182f2eb
-939	1153	7705434845082776	.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.aotstats	4265a3f1b182f2eb
-939	1153	7705434845082776	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.aotstats	4265a3f1b182f2eb
-354	489	7705448270185027	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
-8472	8865	7706347142637338	.rcc/qmlcache/appTesla_Main_qml.cpp	45e01b95e7515c79
-8472	8865	7706347142637338	.rcc/qmlcache/appTesla_Main_qml.cpp.aotstats	45e01b95e7515c79
-955	1194	7705434845498191	.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.aotstats	2dfdeee868d42cde
-955	1194	7705434845498191	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp	2dfdeee868d42cde
-354	489	7705448270185027	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
-354	489	7705448270185027	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
-353	472	7705447182482874	.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp	8238bb443189a05a
-990	1272	7705434846489448	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.aotstats	d5559f032e90b917
-353	472	7705447182482874	.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.aotstats	8238bb443189a05a
-353	472	7705447182482874	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp	8238bb443189a05a
-265	388	7705444533405162	.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp	dc26a5e3b61ed801
-265	388	7705444533405162	.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.aotstats	dc26a5e3b61ed801
-265	388	7705444533405162	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.aotstats	dc26a5e3b61ed801
-266	392	7705445562865929	.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.aotstats	869336706baa59dc
-990	1272	7705434846489448	.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp	d5559f032e90b917
-990	1272	7705434846489448	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp	d5559f032e90b917
-266	392	7705445562865929	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp	869336706baa59dc
-489	2582	7705448270316735	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.obj	4da47d3b21eac667
-280	405	7705446351821577	.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp	484147aa4214a60e
-280	405	7705446351821577	.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.aotstats	484147aa4214a60e
-280	405	7705446351821577	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp	484147aa4214a60e
-280	405	7705446351821577	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.aotstats	484147aa4214a60e
-1153	1348	7705434847191232	.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp	15808e20fac7c0b7
-1153	1348	7705434847191232	.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.aotstats	15808e20fac7c0b7
-1153	1348	7705434847191232	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp	15808e20fac7c0b7
-1153	1348	7705434847191232	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.aotstats	15808e20fac7c0b7
-1185	1374	7705434847585363	.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp	b553f0538fd44bc
-1185	1374	7705434847585363	.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.aotstats	b553f0538fd44bc
-1185	1374	7705434847585363	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp	b553f0538fd44bc
-1185	1374	7705434847585363	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.aotstats	b553f0538fd44bc
-1374	1519	7705434847750920	CMakeFiles/appTesla.dir/appTesla_autogen/mocs_compilation.cpp.obj	7613011eee4d3988
-1385	1559	7705434847850948	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Tesla.cpp.obj	fb8c95fac0ebdcd7
-1381	5463	7705434847815754	CMakeFiles/appTesla.dir/apptesla_qmltyperegistrations.cpp.obj	29c2b53c5c6e1733
-8865	18012	7706347142844061	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp.obj	e361a7c3f3fda9a1
-1378	5547	7705434847790977	CMakeFiles/appTesla.dir/main.cpp.obj	4b99e99383f0008b
-388	2295	7705444533657209	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.obj	83e97911374e5fdd
-1396	6107	7705434847958950	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.obj	4584ee9e269f664
-1404	6210	7705434848048391	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.obj	d7f4daf6915757a4
-1388	6314	7705434847892488	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_qmlcache_loader.cpp.obj	c2305f9dd67319c8
-8870	9938	7706347142894153	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp.obj	657f5babcb00dc4
-5465	8336	7705434888664862	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.obj	e340fbd94b2bac68
-5570	8419	7705434889703083	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.obj	f5c3415e37ef9086
-5575	8432	7705434889751025	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.obj	7bb52294b608e598
-393	2420	7705445563119915	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.obj	4b2a13f799c02ca4
-18012	19814	7706347234194500	appTesla.exe	b42ae60b4c4da83c
-65	128	7706432999357839	.qt/appTesla_qml.txt	746d7b65ed4d55e7
-65	128	7706432999357839	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_qml.txt	746d7b65ed4d55e7
-76	397	7706433002037448	.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
-76	397	7706433002037448	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
-397	537	7706433002185546	appTesla_autogen/timestamp	330a89908d385f67
-397	537	7706433002185546	appTesla_autogen/mocs_compilation.cpp	330a89908d385f67
-397	537	7706433002185546	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTesla_autogen/timestamp	330a89908d385f67
-397	537	7706433002185546	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTesla_autogen/mocs_compilation.cpp	330a89908d385f67
-537	574	7706433003584034	meta_types/appTesla_json_file_list.txt	80ed7935742ef57c
-537	574	7706433003584034	meta_types/appTesla_json_file_list.txt.timestamp	80ed7935742ef57c
-537	574	7706433003584034	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTesla_json_file_list.txt	80ed7935742ef57c
-537	574	7706433003584034	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTesla_json_file_list.txt.timestamp	80ed7935742ef57c
-545	638	7706433004102665	.qt/rcc/qrc_qmake_Tesla.cpp	a372fcb4d7a5b34a
-545	638	7706433004102665	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Tesla.cpp	a372fcb4d7a5b34a
-552	654	7706433004331149	.rcc/qmlcache/appTesla_qmlcache_loader.cpp	4fbf25535b1f05bc
-552	654	7706433004331149	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_qmlcache_loader.cpp	4fbf25535b1f05bc
-561	664	7706433004568846	.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
-561	664	7706433004568846	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
-575	918	7706433006564524	.rcc/qmlcache/appTesla_Main_qml.cpp	45e01b95e7515c79
-575	918	7706433006564524	.rcc/qmlcache/appTesla_Main_qml.cpp.aotstats	45e01b95e7515c79
-575	918	7706433006564524	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp	45e01b95e7515c79
-575	918	7706433006564524	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp.aotstats	45e01b95e7515c79
-584	930	7706433006484529	.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp	4265a3f1b182f2eb
-584	930	7706433006484529	.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.aotstats	4265a3f1b182f2eb
-584	930	7706433006484529	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp	4265a3f1b182f2eb
-584	930	7706433006484529	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.aotstats	4265a3f1b182f2eb
-611	957	7706433007100068	.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp	8f7f74fe5b9fe235
-611	957	7706433007100068	.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.aotstats	8f7f74fe5b9fe235
-611	957	7706433007100068	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp	8f7f74fe5b9fe235
-611	957	7706433007100068	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.aotstats	8f7f74fe5b9fe235
-620	967	7706433007283551	.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp	dc26a5e3b61ed801
-620	967	7706433007283551	.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.aotstats	dc26a5e3b61ed801
-620	967	7706433007283551	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp	dc26a5e3b61ed801
-620	967	7706433007283551	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.aotstats	dc26a5e3b61ed801
-638	967	7706433007404521	.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp	d5559f032e90b917
-638	967	7706433007404521	.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.aotstats	d5559f032e90b917
-638	967	7706433007404521	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp	d5559f032e90b917
-638	967	7706433007404521	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.aotstats	d5559f032e90b917
-602	968	7706433007273560	.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp	2dfdeee868d42cde
-602	968	7706433007273560	.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.aotstats	2dfdeee868d42cde
-602	968	7706433007273560	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp	2dfdeee868d42cde
-602	968	7706433007273560	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.aotstats	2dfdeee868d42cde
-593	981	7706433007027284	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
-593	981	7706433007027284	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
-593	981	7706433007027284	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
-593	981	7706433007027284	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
-629	986	7706433007780168	.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp	8238bb443189a05a
-629	986	7706433007780168	.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.aotstats	8238bb443189a05a
-629	986	7706433007780168	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp	8238bb443189a05a
-629	986	7706433007780168	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.aotstats	8238bb443189a05a
-655	1009	7706433008074266	.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp	869336706baa59dc
-655	1009	7706433008074266	.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.aotstats	869336706baa59dc
-655	1009	7706433008074266	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp	869336706baa59dc
-655	1009	7706433008074266	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.aotstats	869336706baa59dc
-664	1012	7706433008094266	.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp	484147aa4214a60e
-664	1012	7706433008094266	.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.aotstats	484147aa4214a60e
-664	1012	7706433008094266	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp	484147aa4214a60e
-664	1012	7706433008094266	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.aotstats	484147aa4214a60e
-918	1136	7706433009290800	.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp	15808e20fac7c0b7
-918	1136	7706433009290800	.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.aotstats	15808e20fac7c0b7
-918	1136	7706433009290800	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp	15808e20fac7c0b7
-918	1136	7706433009290800	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.aotstats	15808e20fac7c0b7
-957	1136	7706433009300623	.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp	cab6a96dca9a006b
-957	1136	7706433009300623	.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp.aotstats	cab6a96dca9a006b
-957	1136	7706433009300623	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp	cab6a96dca9a006b
-957	1136	7706433009300623	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp.aotstats	cab6a96dca9a006b
-930	1138	7706433009300623	.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp	b553f0538fd44bc
-930	1138	7706433009300623	.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.aotstats	b553f0538fd44bc
-930	1138	7706433009300623	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp	b553f0538fd44bc
-930	1138	7706433009300623	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.aotstats	b553f0538fd44bc
-1139	1419	7706433009595366	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Tesla.cpp.obj	fb8c95fac0ebdcd7
-1147	4841	7706433009675344	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp.obj	e361a7c3f3fda9a1
-1170	5186	7706433009907166	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.obj	83e97911374e5fdd
-1156	5412	7706433009768031	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.obj	4da47d3b21eac667
-1175	5689	7706433009957165	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.obj	bc944ce302f880f
-1179	5850	7706433010001829	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.obj	e340fbd94b2bac68
-1152	5927	7706433009728073	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.obj	4584ee9e269f664
-1166	6197	7706433009872025	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.obj	b839203794e1205f
-1142	6401	7706433009635340	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_qmlcache_loader.cpp.obj	c2305f9dd67319c8
-1419	6816	7706433012405976	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.obj	4b2a13f799c02ca4
-1161	6838	7706433009818135	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.obj	d7f4daf6915757a4
-5851	6867	7706433056710422	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp.obj	657f5babcb00dc4
-4841	8476	7706433046621314	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.obj	7933fca8fda85086
-5186	8493	7706433050068834	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.obj	f5c3415e37ef9086
-5689	8599	7706433055097636	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp.obj	957b58b3ae05c63c
-5412	8662	7706433052334794	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.obj	7bb52294b608e598
-8662	9614	7706433084821043	appTesla.exe	95a798c8d91eaf33
+704	1099	7711045257645771	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.aotstats	869336706baa59dc
+44	95	7711130341532510	.qt/appTesla_qml.txt	746d7b65ed4d55e7
+342	532	7711130345738758	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
+555	682	7710142951759217	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesla_debug_metatypes.json	7e330e39da81727a
+420	559	7711045251193306	appTesla_autogen/mocs_compilation.cpp	330a89908d385f67
+44	95	7711130341532510	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_qml.txt	746d7b65ed4d55e7
+6822	11188	7711045315205896	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.obj	f0122156cc48e612
+70	157	7711048858979723	.qt/appTesla_res.txt	2581dc1f7f46341e
+55	341	7711130343970900	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
+420	559	7711045251193306	appTesla_autogen/timestamp	330a89908d385f67
+617	1040	7711045255725474	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp	4265a3f1b182f2eb
+682	1043	7710142954925691	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptesla_qmltyperegistrations.cpp	3a60e057cd5f82b3
+654	1053	7711045256824184	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.aotstats	8f7f74fe5b9fe235
+654	1053	7711045256824184	.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp	8f7f74fe5b9fe235
+704	1099	7711045257645771	.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp	869336706baa59dc
+70	157	7711048858979723	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_res.txt	2581dc1f7f46341e
+691	1101	7711045257761361	.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.aotstats	d5559f032e90b917
+55	341	7711130343970900	.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
+420	559	7711045251193306	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTesla_autogen/timestamp	330a89908d385f67
+730	1208	7711045258727697	.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp	484147aa4214a60e
+420	559	7711045251193306	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appTesla_autogen/mocs_compilation.cpp	330a89908d385f67
+505	552	7710142950543720	.qt/rcc/qrc_qmake_Tesla.cpp	a372fcb4d7a5b34a
+1318	7699	7711045260162260	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.obj	ccf54b8ab3250f5
+505	552	7710142950543720	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Tesla.cpp	a372fcb4d7a5b34a
+654	1053	7711045256824184	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp	8f7f74fe5b9fe235
+559	606	7711045252583314	meta_types/appTesla_json_file_list.txt	80ed7935742ef57c
+1308	7817	7711045260071430	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.obj	5463f3ad40c3d25d
+559	606	7711045252583314	meta_types/appTesla_json_file_list.txt.timestamp	80ed7935742ef57c
+559	606	7711045252583314	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTesla_json_file_list.txt	80ed7935742ef57c
+559	606	7711045252583314	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appTesla_json_file_list.txt.timestamp	80ed7935742ef57c
+566	704	7711045253294974	.rcc/qmlcache/appTesla_qmlcache_loader.cpp	4fbf25535b1f05bc
+351	438	7711130344959776	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
+642	1053	7711045256723357	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.aotstats	2dfdeee868d42cde
+566	704	7711045253294974	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_qmlcache_loader.cpp	4fbf25535b1f05bc
+555	682	7710142951759217	meta_types/qt6apptesla_debug_metatypes.json	7e330e39da81727a
+606	1053	7711045256108206	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp	45e01b95e7515c79
+351	438	7711130344959776	.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
+679	1015	7711045256601060	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.aotstats	8238bb443189a05a
+555	682	7710142951759217	meta_types/qt6apptesla_debug_metatypes.json.gen	7e330e39da81727a
+555	682	7710142951759217	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesla_debug_metatypes.json.gen	7e330e39da81727a
+682	1043	7710142954925691	apptesla_qmltyperegistrations.cpp	3a60e057cd5f82b3
+642	1053	7711045256723357	.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp	2dfdeee868d42cde
+654	1053	7711045256824184	.rcc/qmlcache/appTesla_ui/RightScreen/Navigation_qml.cpp.aotstats	8f7f74fe5b9fe235
+682	1043	7710142954925691	Tesla/appTesla.qmltypes	3a60e057cd5f82b3
+606	1053	7711045256108206	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp.aotstats	45e01b95e7515c79
+682	1043	7710142954925691	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Tesla/appTesla.qmltypes	3a60e057cd5f82b3
+617	1040	7711045255725474	.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp	4265a3f1b182f2eb
+617	1040	7711045255725474	.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.aotstats	4265a3f1b182f2eb
+617	1040	7711045255725474	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.aotstats	4265a3f1b182f2eb
+342	532	7711130345738758	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
+606	1053	7711045256108206	.rcc/qmlcache/appTesla_Main_qml.cpp	45e01b95e7515c79
+606	1053	7711045256108206	.rcc/qmlcache/appTesla_Main_qml.cpp.aotstats	45e01b95e7515c79
+642	1053	7711045256723357	.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.aotstats	2dfdeee868d42cde
+642	1053	7711045256723357	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp	2dfdeee868d42cde
+342	532	7711130345738758	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
+342	532	7711130345738758	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
+704	1099	7711045257645771	.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.aotstats	869336706baa59dc
+691	1101	7711045257761361	.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp	d5559f032e90b917
+532	3075	7711130345977845	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.obj	ca6f643cda47eeae
+704	1099	7711045257645771	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp	869336706baa59dc
+691	1101	7711045257761361	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp	d5559f032e90b917
+691	1101	7711045257761361	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.aotstats	d5559f032e90b917
+679	1015	7711045256601060	.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp	8238bb443189a05a
+730	1208	7711045258727697	.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.aotstats	484147aa4214a60e
+730	1208	7711045258727697	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp	484147aa4214a60e
+679	1015	7711045256601060	.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp.aotstats	8238bb443189a05a
+679	1015	7711045256601060	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/VolumeController_qml.cpp	8238bb443189a05a
+730	1208	7711045258727697	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/RightIcons_qml.cpp.aotstats	484147aa4214a60e
+667	1054	7711045257082493	.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp	dc26a5e3b61ed801
+667	1054	7711045257082493	.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.aotstats	dc26a5e3b61ed801
+667	1054	7711045257082493	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp	dc26a5e3b61ed801
+667	1054	7711045257082493	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.aotstats	dc26a5e3b61ed801
+1028	1259	7711045259354430	.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp	b553f0538fd44bc
+1028	1259	7711045259354430	.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.aotstats	b553f0538fd44bc
+1028	1259	7711045259354430	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp	b553f0538fd44bc
+1028	1259	7711045259354430	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.aotstats	b553f0538fd44bc
+1015	1257	7711045259295303	.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp	15808e20fac7c0b7
+1015	1257	7711045259295303	.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.aotstats	15808e20fac7c0b7
+1015	1257	7711045259295303	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp	15808e20fac7c0b7
+1015	1257	7711045259295303	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.aotstats	15808e20fac7c0b7
+1041	1281	7711045259601442	.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp	cab6a96dca9a006b
+1041	1281	7711045259601442	.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp.aotstats	cab6a96dca9a006b
+1041	1281	7711045259601442	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp	cab6a96dca9a006b
+1041	1281	7711045259601442	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp.aotstats	cab6a96dca9a006b
+1517	1651	7710142960281150	CMakeFiles/appTesla.dir/appTesla_autogen/mocs_compilation.cpp.obj	a377d00e18a7e68e
+1528	1729	7710142960369625	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_Tesla.cpp.obj	4f6b051acb2494f3
+1524	7093	7710142960311150	CMakeFiles/appTesla.dir/apptesla_qmltyperegistrations.cpp.obj	74eada71965fc494
+1286	7604	7711045259843221	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_Main_qml.cpp.obj	7941f5c9ff3c011f
+1520	8752	7710142960311150	CMakeFiles/appTesla.dir/main.cpp.obj	93d37e5a041f36a1
+1291	7849	7711045259890193	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/BottomBar_qml.cpp.obj	81b982d15320b6e4
+1313	6822	7711045260111708	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/HVACComponent_qml.cpp.obj	7e93451a8c051ac0
+1281	6912	7711045259806256	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_qmlcache_loader.cpp.obj	dc59000e2b5c2dd0
+1302	8011	7711045260005981	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/RightScreen/RightScreen_qml.cpp.obj	6e5d61191257cc2a
+536	1263	7711130346017830	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp.obj	651da1d308a7d1b5
+1323	8001	7711045260202654	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/Icons_qml.cpp.obj	767ae45c8b1de022
+1328	8074	7711045260263185	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/LeftIcons_qml.cpp.obj	eceb6c592bcfba9c
+6912	10898	7711045316111665	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/Battery_qml.cpp.obj	c1cb13e0e51499d
+7699	11353	7711045323985494	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp.obj	748a9697895bb13b
+7604	11399	7711045323030419	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/IndicatorBar_qml.cpp.obj	f9ec6ad25bddf84c
+3076	3988	7711130371412401	appTesla.exe	851619e55010a8fc
+65	117	7711131301477351	.qt/appTesla_qml.txt	746d7b65ed4d55e7
+65	117	7711131301477351	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_qml.txt	746d7b65ed4d55e7
+77	483	7711131305115341	.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
+77	483	7711131305115341	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
+491	561	7711131305916771	.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
+491	561	7711131305916771	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
+483	659	7711131306642312	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
+483	659	7711131306642312	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
+483	659	7711131306642312	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
+483	659	7711131306642312	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
+664	1425	7711131307028151	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp.obj	651da1d308a7d1b5
+659	3322	7711131306978155	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.obj	ca6f643cda47eeae
+3322	4321	7711131333610492	appTesla.exe	851619e55010a8fc
+63	119	7711131841123893	.qt/appTesla_qml.txt	746d7b65ed4d55e7
+63	119	7711131841123893	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appTesla_qml.txt	746d7b65ed4d55e7
+77	385	7711131843734185	.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
+77	385	7711131843734185	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appTesla_build.cmake	e4ffdd264ca587c3
+392	469	7711131844591446	.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
+392	469	7711131844591446	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp	22dabb8842d3d30c
+385	562	7711131845402209	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
+385	562	7711131845402209	.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
+385	562	7711131845402209	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp	cb1fc7f9e0baf303
+385	562	7711131845402209	D:/Qt Projects/TeslaUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.aotstats	cb1fc7f9e0baf303
+567	1193	7711131845660249	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appTesla_raw_qml_0.cpp.obj	651da1d308a7d1b5
+562	2919	7711131845613488	CMakeFiles/appTesla.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appTesla_ui/LeftScreen/LeftScreen_qml.cpp.obj	ca6f643cda47eeae
+2919	3790	7711131869188202	appTesla.exe	851619e55010a8fc
