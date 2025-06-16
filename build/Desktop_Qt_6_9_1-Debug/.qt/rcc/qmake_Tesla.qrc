@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Tesla">
+    <file alias="qmldir">/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/qmldir</file>
+  </qresource>
+</RCC>
+

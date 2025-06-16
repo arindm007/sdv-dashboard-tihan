@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "Cannot access value for name moreItemsIcon",
+                        "functionName": "left",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 12
+                    }
+                ],
+                "filePath": "/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/Icons.qml"
+            }
+        ],
+        "moduleId": "Tesla(appTesla)"
+    }
+]

@@ -1,0 +1,51 @@
+<RCC>
+  <qresource prefix="/Tesla/">
+    <file alias="Main.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/RightScreen/Navigation.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/RightScreen/Navigation.qml</file>
+    <file alias="ui/BottomBar/HVACComponent.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/HVACComponent.qml</file>
+    <file alias="ui/BottomBar/VolumeController.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/VolumeController.qml</file>
+    <file alias="ui/BottomBar/Icons.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/Icons.qml</file>
+    <file alias="ui/BottomBar/LeftIcons.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/LeftIcons.qml</file>
+    <file alias="ui/BottomBar/RightIcons.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/RightIcons.qml</file>
+    <file alias="ui/LeftScreen/Battery.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/Battery.qml</file>
+    <file alias="ui/LeftScreen/IndicatorBar.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/IndicatorBar.qml</file>
+    <file alias="ui/CalendarPopup.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/CalendarPopup.qml</file>
+    <file alias="assets/Car.jpeg">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/Car.jpeg</file>
+    <file alias="assets/carIcon.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/carIcon.png</file>
+    <file alias="assets/lock.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/lock.png</file>
+    <file alias="assets/Car.jpeg">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/Car.jpeg</file>
+    <file alias="assets/carIcon.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/carIcon.png</file>
+    <file alias="assets/lock.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/lock.png</file>
+    <file alias="assets/search.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/search.png</file>
+    <file alias="assets/volume-up-interface-symbol.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/volume-up-interface-symbol.png</file>
+    <file alias="assets/mediumVolume.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/mediumVolume.png</file>
+    <file alias="assets/audio.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/audio.png</file>
+    <file alias="assets/calendar.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/calendar.png</file>
+    <file alias="assets/camera-lens.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/camera-lens.png</file>
+    <file alias="assets/itunes.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/itunes.png</file>
+    <file alias="assets/line.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/line.png</file>
+    <file alias="assets/more.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/more.png</file>
+    <file alias="assets/phone-call.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/phone-call.png</file>
+    <file alias="assets/spotify.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/spotify.png</file>
+    <file alias="assets/video.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/video.png</file>
+    <file alias="assets/carRender.jpeg">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/carRender.jpeg</file>
+    <file alias="assets/battery1.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/battery1.png</file>
+    <file alias="assets/battery2.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/battery2.png</file>
+    <file alias="assets/car-indicator.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/car-indicator.png</file>
+    <file alias="assets/car-indicator1.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/car-indicator1.png</file>
+    <file alias="assets/car-indicator2.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/car-indicator2.png</file>
+    <file alias="assets/car-indicator3.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/car-indicator3.png</file>
+    <file alias="assets/seatbelt.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/seatbelt.png</file>
+    <file alias="assets/seatbelt.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/seatbelt.png</file>
+    <file alias="assets/warning.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/warning.png</file>
+    <file alias="assets/unlock.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/unlock.png</file>
+    <file alias="assets/Bus.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/Bus.png</file>
+    <file alias="assets/play.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/play.png</file>
+    <file alias="assets/next.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/next.png</file>
+    <file alias="assets/backward.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/backward.png</file>
+  </qresource>
+</RCC>
+
