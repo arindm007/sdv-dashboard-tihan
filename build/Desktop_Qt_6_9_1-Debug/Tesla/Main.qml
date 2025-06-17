@@ -38,22 +38,23 @@ Window {
             right: parent.right
             bottom: bottomBar.top // ⬅️ this avoids covering the bottom bar
         }
-        visible: false
+        // visible: false
+        url: "http://localhost:8000/index.html"
         z: 10
     }
 
-    Button {
-        id: closeButton
-        text: "Close"
-        visible: webView.visible
-        z: 11
-        anchors.top: parent.top
-        anchors.right: parent.right
-        anchors.margins: 10
+    // Button {
+    //     id: closeButton
+    //     text: "Close"
+    //     visible: webView.visible
+    //     z: 11
+    //     anchors.top: parent.top
+    //     anchors.right: parent.right
+    //     anchors.margins: 10
 
-        onClicked: {
-            webView.visible = false
-            webView.url = ""
-        }
-    }
+    //     onClicked: {
+    //         webView.visible = false
+    //         webView.url = ""
+    //     }
+    // }
 }

@@ -4,6 +4,7 @@ import QtLocation
 import QtPositioning
 import QtQuick.Layouts
 import QtMultimedia
+import QtWebEngine 1.7
 
 Rectangle {
     id: leftScreen
@@ -84,13 +85,18 @@ Rectangle {
         search()
     }
 
-    Image {
-        id: carRender
-        anchors.centerIn: parent
-        width: parent.width * 0.25
-        fillMode: Image.PreserveAspectFit
-        source: "qrc:Tesla/assets/Bus.png"
-    }
+    // Image {
+    //     id: carRender
+    //     anchors.centerIn: parent
+    //     width: parent.width * 0.25
+    //     fillMode: Image.PreserveAspectFit
+    //     source: "qrc:Tesla/assets/Bus.png"
+    // }
+
+    // Item {
+    //     id: visualRender
+    //     url: "http://localhost:8000/index.html"
+    // }
 
     Row {
         id: infoBoxes

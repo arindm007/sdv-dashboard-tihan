@@ -1,4 +1,5 @@
 import QtQuick
+import QtWebEngine 1.15
 
 Rectangle {
     id: bottomBar
@@ -24,6 +25,11 @@ Rectangle {
         height: parent.height * 0.85
         fillMode: Image.PreserveAspectFit
         source: "qrc:/Tesla/assets/carIcon.png"
+        MouseArea {
+            anchors.fill: parent
+            hoverEnabled: true
+            onClicked: webView.url = "http://localhost:8000/index.html"
+        }
     }
 
     HVACComponent {

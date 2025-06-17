@@ -6,10 +6,10 @@
                     {
                         "codegenSuccessful": true,
                         "column": 13,
-                        "durationMicroseconds": 96,
+                        "durationMicroseconds": 97,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 14
+                        "line": 15
                     },
                     {
                         "codegenSuccessful": true,
@@ -17,7 +17,7 @@
                         "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 9
+                        "line": 10
                     },
                     {
                         "codegenSuccessful": true,
@@ -25,15 +25,15 @@
                         "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 10
+                        "line": 11
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 11
+                        "line": 12
                     },
                     {
                         "codegenSuccessful": true,
@@ -41,23 +41,23 @@
                         "durationMicroseconds": 39,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 24
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 19,
-                        "durationMicroseconds": 23,
-                        "errorMessage": "",
-                        "functionName": "fillMode",
                         "line": 25
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 20
+                        "line": 21
                     },
                     {
                         "codegenSuccessful": true,
@@ -65,31 +65,47 @@
                         "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 22
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 24,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name webView",
+                        "functionName": "onClicked",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 29
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 31,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 32
+                        "line": 38
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 18,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 33
+                        "line": 39
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 34
+                        "line": 40
                     },
                     {
                         "codegenSuccessful": true,
@@ -97,7 +113,7 @@
                         "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 42
+                        "line": 48
                     },
                     {
                         "codegenSuccessful": true,
@@ -105,23 +121,23 @@
                         "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 43
+                        "line": 49
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 44
+                        "line": 50
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 52
+                        "line": 58
                     },
                     {
                         "codegenSuccessful": true,
@@ -129,7 +145,7 @@
                         "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 54
+                        "line": 60
                     },
                     {
                         "codegenSuccessful": true,
@@ -137,7 +153,7 @@
                         "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 55
+                        "line": 61
                     },
                     {
                         "codegenSuccessful": true,
@@ -145,7 +161,7 @@
                         "durationMicroseconds": 37,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 63
+                        "line": 69
                     },
                     {
                         "codegenSuccessful": true,
@@ -153,31 +169,31 @@
                         "durationMicroseconds": 21,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 64
+                        "line": 70
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 33,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 61
+                        "line": 67
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 35,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
-                        "line": 62
+                        "line": 68
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 74
+                        "line": 80
                     },
                     {
                         "codegenSuccessful": true,
@@ -185,7 +201,7 @@
                         "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 71
+                        "line": 77
                     },
                     {
                         "codegenSuccessful": true,
@@ -193,23 +209,23 @@
                         "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 72
+                        "line": 78
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 84
+                        "line": 90
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 48,
                         "errorMessage": "",
                         "functionName": "onRequestOpenUrl",
-                        "line": 86
+                        "line": 92
                     },
                     {
                         "codegenSuccessful": true,
@@ -217,23 +233,23 @@
                         "durationMicroseconds": 14,
                         "errorMessage": "",
                         "functionName": "onRequestOpenUrl",
-                        "line": 86
+                        "line": 92
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 43,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 80
+                        "line": 86
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 33,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 81
+                        "line": 87
                     }
                 ],
                 "filePath": "/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/BottomBar.qml"
