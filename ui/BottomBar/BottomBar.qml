@@ -6,6 +6,8 @@ Rectangle {
     property alias rightIcons: rightIcons
     signal requestOpenUrl(string url)
 
+    property var chatBotPopup: null
+
     anchors {
         left: parent.left
         right: parent.right
@@ -32,13 +34,28 @@ Rectangle {
         }
     }
 
-    HVACComponent {
-        id: driverHAC
+    Image {
+        id: chatBotIcon
+        source: "qrc:/Tesla/assets/support.png"
         anchors {
             left: carSettingsIcon.right
             top: parent.top
             bottom: parent.bottom
             leftMargin: 50
+            topMargin: 20
+            bottomMargin: 20
+        }
+        height: parent.height * 0.6
+        fillMode: Image.PreserveAspectFit
+
+        MouseArea {
+            anchors.fill: parent
+            onClicked: {
+                if (!chatBotPopup) {
+                    chatBotPopup = chatBotComponent.createObject(bottomBar)
+                }
+                chatBotPopup.open()
+            }
         }
     }
 
@@ -92,5 +109,11 @@ Rectangle {
         onRequestOpenUrl: (url) => {
             bottomBar.requestOpenUrl(url)
         }
+    }
+
+    // ✅ Chatbot Component (Put this near bottom of Rectangle)
+    Component {
+        id: chatBotComponent
+        ChatBotPopup {}
     }
 }

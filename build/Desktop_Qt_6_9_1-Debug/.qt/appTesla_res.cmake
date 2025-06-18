@@ -68,6 +68,8 @@ set(src_and_dest_list
     "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/assets/next.png"
     "/home/tihan-12/Documents/sdv-dashboard-tihan/assets/backward.png"
     "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/assets/backward.png"
+    "/home/tihan-12/Documents/sdv-dashboard-tihan/assets/support.png"
+    "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/assets/support.png"
 
 )
 set(timestamp_file "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/.qt/appTesla_res.txt")

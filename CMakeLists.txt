@@ -49,6 +49,8 @@ qt_add_qml_module(appTesla
     RESOURCES assets/backward.png
 
     QML_FILES ui/CalendarPopup.qml
+    RESOURCES assets/support.png
+    QML_FILES ui/BottomBar/ChatBotPopup.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 109,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 14
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 19,
-                        "durationMicroseconds": 144,
+                        "durationMicroseconds": 154,
                         "errorMessage": "Cannot access value for name moreItemsIcon",
                         "functionName": "left",
                         "line": 10
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 37,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 12

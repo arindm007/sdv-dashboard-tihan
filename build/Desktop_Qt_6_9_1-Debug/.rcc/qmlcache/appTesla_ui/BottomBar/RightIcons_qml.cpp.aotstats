@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 90,
+                        "durationMicroseconds": 72,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 17
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 30,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 19
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 16,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "opacity",
                         "line": 29
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 30
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 27
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 30,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 35
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 27,
-                        "durationMicroseconds": 12,
+                        "durationMicroseconds": 13,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "onExited",
                         "line": 37
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 33
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 9,
+                        "durationMicroseconds": 10,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "opacity",
                         "line": 51
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 52
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 30,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 57
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 28,
-                        "durationMicroseconds": 15,
+                        "durationMicroseconds": 16,
                         "errorMessage": "Cannot access value for name iconHoverOpacity",
                         "functionName": "onEntered",
                         "line": 58
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 27,
-                        "durationMicroseconds": 11,
+                        "durationMicroseconds": 13,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "onExited",
                         "line": 59
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 28,
-                        "durationMicroseconds": 136,
+                        "durationMicroseconds": 138,
                         "errorMessage": "method calendarClicked cannot be resolved.",
                         "functionName": "onClicked",
                         "line": 60
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 26,
-                        "durationMicroseconds": 9,
+                        "durationMicroseconds": 15,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "opacity",
                         "line": 74
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 75
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 72
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 28,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 16,
                         "errorMessage": "Cannot access value for name iconHoverOpacity",
                         "functionName": "onEntered",
                         "line": 81
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 27,
-                        "durationMicroseconds": 11,
+                        "durationMicroseconds": 12,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "onExited",
                         "line": 82
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 28,
-                        "durationMicroseconds": 118,
+                        "durationMicroseconds": 120,
                         "errorMessage": "method requestOpenUrl cannot be resolved.",
                         "functionName": "onClicked",
                         "line": 83
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 28,
-                        "durationMicroseconds": 120,
+                        "durationMicroseconds": 114,
                         "errorMessage": "method requestOpenUrl cannot be resolved.",
                         "functionName": "onClicked",
                         "line": 106
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 17,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 101

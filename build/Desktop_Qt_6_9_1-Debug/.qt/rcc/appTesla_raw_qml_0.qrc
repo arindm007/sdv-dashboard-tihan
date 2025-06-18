@@ -13,6 +13,7 @@
     <file alias="ui/LeftScreen/Battery.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/Battery.qml</file>
     <file alias="ui/LeftScreen/IndicatorBar.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/IndicatorBar.qml</file>
     <file alias="ui/CalendarPopup.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/CalendarPopup.qml</file>
+    <file alias="ui/BottomBar/ChatBotPopup.qml">/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/ChatBotPopup.qml</file>
     <file alias="assets/Car.jpeg">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/Car.jpeg</file>
     <file alias="assets/carIcon.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/carIcon.png</file>
     <file alias="assets/lock.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/lock.png</file>
@@ -46,6 +47,7 @@
     <file alias="assets/play.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/play.png</file>
     <file alias="assets/next.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/next.png</file>
     <file alias="assets/backward.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/backward.png</file>
+    <file alias="assets/support.png">/home/tihan-12/Documents/sdv-dashboard-tihan/assets/support.png</file>
   </qresource>
 </RCC>
 
