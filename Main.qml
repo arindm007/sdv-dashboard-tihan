@@ -43,6 +43,30 @@ Window {
         z: 10
     }
 
+    WebEngineView {
+        id: map
+        width: 370    // width of the small rectangle
+        height: 600   // height of the small rectangle
+        anchors.top: webView.top
+        anchors.right: webView.right
+        anchors.margins: 10  // optional margin from top-right corner
+        url: "http://127.0.0.1:5000/"
+        z: 11  // makes sure it's above webView
+        clip: true
+        visible: true
+        backgroundColor: "transparent"
+    }
+
+    Rectangle {
+        anchors.fill: map
+        color: "transparent"
+        // border.width: 2
+        radius: 10
+        z: 12  // higher than map so border is on top
+        visible: map.visible  // optional: hides border when map is hidden
+    }
+
+
     // Button {
     //     id: closeButton
     //     text: "Close"

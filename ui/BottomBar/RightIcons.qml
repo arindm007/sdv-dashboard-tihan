@@ -85,6 +85,7 @@ Item {
                     requestOpenUrl("https://www.itunes.com")
                 }
             }
+            z:14
         }
 
         // Spotify Icon
@@ -108,6 +109,7 @@ Item {
                     requestOpenUrl("https://www.spotify.com")
                 }
             }
+            z:14
         }
     }
 }
