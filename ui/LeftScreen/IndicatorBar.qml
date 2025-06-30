@@ -8,8 +8,8 @@ Rectangle {
         topMargin: 30
         leftMargin: 20
     }
-    width: parent.width / 16
-    height: parent.height / 3
+    width: parent.width / 99
+    height: parent.height / 33
     color: "#141414"
 
     Image {

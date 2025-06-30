@@ -42,6 +42,7 @@ Item {
         }
 
         // Calendar Icon
+        // Calendar Icon
         Item {
             width: 50; height: 50
             Image {
@@ -59,10 +60,11 @@ Item {
                 onExited: calendarIcon.opacity = iconOpacity
                 onClicked: {
                     console.log("Calendar icon clicked")
-                    calendarClicked()
+                    requestOpenUrl("https://calendar.google.com")
                 }
             }
         }
+
 
         // iTunes Icon
         Item {

@@ -96,13 +96,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 73,
+				"line" : 82,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 67,
+				"line" : 76,
 				"parent" : 0
 			},
 			{
@@ -1002,17 +1002,17 @@
 				35,
 				36,
 				37,
-				68,
-				90,
-				91,
-				92,
-				93,
-				94,
-				95,
-				96,
-				97,
-				98,
-				99
+				77,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108
 			]
 		},
 		{
@@ -1069,13 +1069,8 @@
 				64,
 				65,
 				66,
-				67
-			]
-		},
-		{
-			"name" : "CMake Rules",
-			"sourceIndexes" : 
-			[
+				67,
+				68,
 				69,
 				70,
 				71,
@@ -1083,8 +1078,13 @@
 				73,
 				74,
 				75,
-				76,
-				77,
+				76
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
 				78,
 				79,
 				80,
@@ -1096,7 +1096,16 @@
 				86,
 				87,
 				88,
-				89
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98
 			]
 		}
 	],
@@ -1288,26 +1297,26 @@
 		},
 		{
 			"backtrace" : 94,
-			"path" : "ui/CalendarPopup.qml",
+			"path" : "ui/CustomCalendar.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 95,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/CustomCalendar_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 96,
-			"path" : "ui/BottomBar/chatbot.qml",
+			"path" : "ui/BottomBar/ChatBotPopup.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 97,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/chatbot_qml.cpp",
+			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/ChatBotPopup_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -1482,6 +1491,51 @@
 		},
 		{
 			"backtrace" : 103,
+			"path" : "assets/home.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/hostel.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/maingate.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/map.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/testbed.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/player.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/chatbot.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/aibot.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
+			"path" : "assets/logo.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 103,
 			"path" : "assets/support.png",
 			"sourceGroupIndex" : 2
 		},
@@ -1590,13 +1644,13 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/CalendarPopup_qml.cpp.rule",
+			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/CustomCalendar_qml.cpp.rule",
 			"sourceGroupIndex" : 3
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/chatbot_qml.cpp.rule",
+			"path" : "build/Desktop_Qt_6_9_1-Debug/.rcc/qmlcache/appTesla_ui/BottomBar/ChatBotPopup_qml.cpp.rule",
 			"sourceGroupIndex" : 3
 		},
 		{

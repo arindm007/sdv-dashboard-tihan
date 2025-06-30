@@ -11,7 +11,7 @@ Window {
     id: root
     width: 900
     height: 450
-    title: qsTr("Tesla")
+    title: qsTr("TiHAN-IIT HYDERABAD")
     visible: true
 
     LeftScreen {
@@ -38,47 +38,22 @@ Window {
             right: parent.right
             bottom: bottomBar.top // ⬅️ this avoids covering the bottom bar
         }
-        // visible: false
-        url: "http://localhost:8000/index.html"
+        visible: false
         z: 10
     }
 
-    WebEngineView {
-        id: map
-        width: 370    // width of the small rectangle
-        height: 600   // height of the small rectangle
-        anchors.top: webView.top
-        anchors.right: webView.right
-        anchors.margins: 10  // optional margin from top-right corner
-        url: "http://127.0.0.1:5000/"
-        z: 11  // makes sure it's above webView
-        clip: true
-        visible: true
-        backgroundColor: "transparent"
+    Button {
+        id: closeButton
+        text: "Close"
+        visible: webView.visible
+        z: 11
+        anchors.top: parent.top
+        anchors.right: parent.right
+        anchors.margins: 10
+
+        onClicked: {
+            webView.visible = false
+            webView.url = ""
+        }
     }
-
-    Rectangle {
-        anchors.fill: map
-        color: "transparent"
-        // border.width: 2
-        radius: 10
-        z: 12  // higher than map so border is on top
-        visible: map.visible  // optional: hides border when map is hidden
-    }
-
-
-    // Button {
-    //     id: closeButton
-    //     text: "Close"
-    //     visible: webView.visible
-    //     z: 11
-    //     anchors.top: parent.top
-    //     anchors.right: parent.right
-    //     anchors.margins: 10
-
-    //     onClicked: {
-    //         webView.visible = false
-    //         webView.url = ""
-    //     }
-    // }
 }

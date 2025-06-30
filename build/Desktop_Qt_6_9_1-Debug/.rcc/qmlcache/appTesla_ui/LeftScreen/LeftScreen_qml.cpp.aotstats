@@ -6,18 +6,34 @@
                     {
                         "codegenSuccessful": false,
                         "column": 28,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 69,
                         "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
                         "functionName": "playlist",
-                        "line": 19
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 31,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "suggestions",
+                        "line": 28
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 137,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "fetchSuggestions",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 163,
                         "errorMessage": "Cannot access value for name XMLHttpRequest",
                         "functionName": "search",
-                        "line": 36
+                        "line": 57
                     },
                     {
                         "codegenSuccessful": false,
@@ -25,7 +41,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Functions without type annotations won't be compiled",
                         "functionName": "validateAudioUrls",
-                        "line": 50
+                        "line": 71
                     },
                     {
                         "codegenSuccessful": false,
@@ -33,28 +49,28 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Functions without type annotations won't be compiled",
                         "functionName": "playTrack",
-                        "line": 61
+                        "line": 82
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 30,
                         "errorMessage": "Cannot load property length from (component in /home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/LeftScreen.qml)::playlist with type QVariant.",
                         "functionName": "nextTrack",
-                        "line": 70
+                        "line": 90
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 5,
-                        "durationMicroseconds": 95,
+                        "durationMicroseconds": 132,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "prevTrack",
-                        "line": 77
+                        "line": 97
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 15,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 43,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 12
@@ -62,74 +78,746 @@
                     {
                         "codegenSuccessful": true,
                         "column": 14,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 13
                     },
                     {
-                        "codegenSuccessful": false,
+                        "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 102,
-                        "errorMessage": "Cannot access value for name bottomBar",
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 14
+                        "line": 17
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 16,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 31,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 15
+                        "line": 18
                     },
                     {
                         "codegenSuccessful": false,
                         "column": 31,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 77,
                         "errorMessage": "method nextTrack cannot be resolved.",
                         "functionName": "onMediaStatusChanged",
-                        "line": 29
+                        "line": 50
                     },
                     {
-                        "codegenSuccessful": true,
+                        "codegenSuccessful": false,
                         "column": 28,
-                        "durationMicroseconds": 22,
-                        "errorMessage": "",
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Type  does not have a property trigger for calling",
                         "functionName": "onCompleted",
-                        "line": 84
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 22,
-                        "durationMicroseconds": 148,
-                        "errorMessage": "Cannot access value for name carRender",
-                        "functionName": "top",
-                        "line": 103
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 35,
-                        "durationMicroseconds": 80,
-                        "errorMessage": "Cannot access value for name carRender",
-                        "functionName": "horizontalCenter",
-                        "line": 105
+                        "line": 104
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 31,
-                        "durationMicroseconds": 21,
+                        "column": 16,
+                        "durationMicroseconds": 65,
                         "errorMessage": "",
-                        "functionName": "fill",
+                        "functionName": "width",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
                         "line": 114
                     },
                     {
                         "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessful": true,
                         "column": 39,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name playlist",
+                        "functionName": "source",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name playlist",
+                        "functionName": "text",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 40,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "Cannot access value for name playlist",
+                        "functionName": "text",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 40,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "Cannot access value for name mouse",
+                        "functionName": "onClicked",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 187
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 202
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 189,
+                        "errorMessage": "",
+                        "functionName": "onPositionChanged",
+                        "line": 203
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 233
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 244
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "method prevTrack cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 273
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 269
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 287
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 294
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "method nextTrack cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "suggestions",
+                        "line": 319
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 53,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 338
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 340
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name showSearch",
+                        "functionName": "onClicked",
+                        "line": 347
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 350
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 46,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"visible\".",
+                        "functionName": "visible",
+                        "line": 365
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 367
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 52,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"textChanged\".",
+                        "functionName": "onTextChanged",
+                        "line": 385
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 59,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name text",
+                        "functionName": "onReturnPressed",
+                        "line": 377
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 45,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name suggestions",
+                        "functionName": "height",
+                        "line": 398
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 46,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name suggestions",
+                        "functionName": "visible",
+                        "line": 402
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 12,
+                        "errorMessage": "Cannot access value for name suggestions",
+                        "functionName": "model",
+                        "line": 404
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 50,
+                        "durationMicroseconds": 10,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: searchField",
+                        "functionName": "top",
+                        "line": 399
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 400
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 409
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 48,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 416
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 52,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 426
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 51,
+                        "durationMicroseconds": 167,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 430
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 52,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 431
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 69,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 423
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 59,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 424
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 56,
+                        "durationMicroseconds": 268,
+                        "errorMessage": "Cannot access value for name searchField",
+                        "functionName": "onClicked",
+                        "line": 438
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 56,
+                        "durationMicroseconds": 7,
+                        "errorMessage": "Type (component in /home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/LeftScreen.qml)::parent with type QQuickItem does not have a property color for writing",
+                        "functionName": "onEntered",
+                        "line": 444
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 55,
+                        "durationMicroseconds": 4,
+                        "errorMessage": "Type (component in /home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/LeftScreen.qml)::parent with type QQuickItem does not have a property color for writing",
+                        "functionName": "onExited",
+                        "line": 445
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 59,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
                         "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 122
+                        "line": 470
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 479
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 487
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 483
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 42,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 494
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: webPopup",
+                        "functionName": "onClicked",
+                        "line": 495
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 492
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 505
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 513
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 509
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 42,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 520
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: webPopup",
+                        "functionName": "onClicked",
+                        "line": 521
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 518
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 531
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 539
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 42,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 546
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: webPopup",
+                        "functionName": "onClicked",
+                        "line": 547
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 544
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 558
                     },
                     {
                         "codegenSuccessful": true,
@@ -137,231 +825,87 @@
                         "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 130
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 37,
-                        "durationMicroseconds": 45,
-                        "errorMessage": "Cannot access value for name playlist",
-                        "functionName": "source",
-                        "line": 131
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 39,
-                        "durationMicroseconds": 44,
-                        "errorMessage": "Cannot access value for name playlist",
-                        "functionName": "text",
-                        "line": 139
+                        "line": 566
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 40,
-                        "durationMicroseconds": 37,
+                        "column": 47,
+                        "durationMicroseconds": 17,
                         "errorMessage": "",
-                        "functionName": "elide",
-                        "line": 143
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 39,
-                        "durationMicroseconds": 47,
-                        "errorMessage": "Cannot access value for name playlist",
-                        "functionName": "text",
-                        "line": 148
+                        "functionName": "centerIn",
+                        "line": 562
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 40,
-                        "durationMicroseconds": 34,
+                        "column": 42,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
-                        "functionName": "elide",
-                        "line": 152
+                        "functionName": "cursorShape",
+                        "line": 573
                     },
                     {
                         "codegenSuccessful": false,
-                        "column": 25,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"to\".",
-                        "functionName": "to",
-                        "line": 164
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 28,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"value\".",
-                        "functionName": "value",
-                        "line": 165
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 30,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"moved\".",
-                        "functionName": "onMoved",
-                        "line": 182
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 38,
-                        "durationMicroseconds": 85,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: progressSlider",
-                        "functionName": "onTriggered",
-                        "line": 192
+                        "column": 40,
+                        "durationMicroseconds": 18,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: webPopup",
+                        "functionName": "onClicked",
+                        "line": 574
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 39,
-                        "durationMicroseconds": 29,
+                        "column": 43,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 207
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 213
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 47,
-                        "durationMicroseconds": 132,
-                        "errorMessage": "Cannot access value for name Image",
-                        "functionName": "fillMode",
-                        "line": 221
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 55,
-                        "durationMicroseconds": 3,
-                        "errorMessage": "Cannot access value for name parent",
-                        "functionName": "centerIn",
-                        "line": 217
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 227
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 47,
-                        "durationMicroseconds": 84,
-                        "errorMessage": "Cannot access value for name Image",
-                        "functionName": "fillMode",
-                        "line": 240
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 55,
-                        "durationMicroseconds": 3,
-                        "errorMessage": "Cannot access value for name parent",
-                        "functionName": "centerIn",
-                        "line": 236
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 246
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 47,
-                        "durationMicroseconds": 71,
-                        "errorMessage": "Cannot access value for name Image",
-                        "functionName": "fillMode",
-                        "line": 254
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 55,
-                        "durationMicroseconds": 3,
-                        "errorMessage": "Cannot access value for name parent",
-                        "functionName": "centerIn",
-                        "line": 250
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 260
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 47,
-                        "durationMicroseconds": 78,
-                        "errorMessage": "Cannot access value for name Image",
-                        "functionName": "fillMode",
-                        "line": 268
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 55,
-                        "durationMicroseconds": 3,
-                        "errorMessage": "Cannot access value for name parent",
-                        "functionName": "centerIn",
-                        "line": 264
+                        "line": 571
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 16,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 59,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 290
+                        "line": 594
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 43,
                         "errorMessage": "",
                         "functionName": "height",
-                        "line": 291
+                        "line": 595
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 292
+                        "line": 596
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 18,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 287
+                        "line": 591
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 288
+                        "line": 592
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 16,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 46,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 303
+                        "line": 606
                     },
                     {
                         "codegenSuccessful": true,
@@ -369,39 +913,39 @@
                         "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 299
+                        "line": 602
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 300
+                        "line": 603
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "right",
-                        "line": 301
+                        "line": 604
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 20,
                         "errorMessage": "",
                         "functionName": "centerIn",
-                        "line": 308
+                        "line": 610
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 16,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 53,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 327
+                        "line": 627
                     },
                     {
                         "codegenSuccessful": true,
@@ -409,39 +953,7 @@
                         "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 328
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 21,
-                        "durationMicroseconds": 38,
-                        "errorMessage": "",
-                        "functionName": "bottom",
-                        "line": 322
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 19,
-                        "durationMicroseconds": 34,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 323
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 28,
-                        "durationMicroseconds": 25,
-                        "errorMessage": "",
-                        "functionName": "verticalAlignment",
-                        "line": 344
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 19,
-                        "durationMicroseconds": 39,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 335
+                        "line": 628
                     },
                     {
                         "codegenSuccessful": true,
@@ -449,55 +961,199 @@
                         "durationMicroseconds": 34,
                         "errorMessage": "",
                         "functionName": "bottom",
-                        "line": 336
+                        "line": 622
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 623
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 634
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 338
+                        "line": 635
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 16,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 349
+                        "line": 646
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 13,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "Cannot access value for name XMLHttpRequest",
+                        "functionName": "getWeather",
+                        "line": 727
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 37,
+                        "durationMicroseconds": 34,
                         "errorMessage": "",
                         "functionName": "left",
-                        "line": 354
+                        "line": 651
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 355
+                        "line": 652
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 47,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 363
+                        "line": 660
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "fillMode",
-                        "line": 364
+                        "line": 661
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 663
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 669
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 677
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 788,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onTriggered",
+                        "line": 688
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "method getWeather cannot be resolved.",
+                        "functionName": "onTriggered",
+                        "line": 724
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 745
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 12,
+                        "errorMessage": "Cannot access value for name currentTemp",
+                        "functionName": "text",
+                        "line": 752
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "pixelSize",
+                        "line": 761
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 16,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"width\".",
+                        "functionName": "width",
+                        "line": 772
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"height\".",
+                        "functionName": "height",
+                        "line": 773
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 12,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"x\".",
+                        "functionName": "x",
+                        "line": 774
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 12,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"y\".",
+                        "functionName": "y",
+                        "line": 776
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 786
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 792
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 795
                     }
                 ],
                 "filePath": "/home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/LeftScreen.qml"

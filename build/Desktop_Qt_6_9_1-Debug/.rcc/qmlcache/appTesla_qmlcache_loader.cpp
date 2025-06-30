@@ -89,7 +89,7 @@ namespace _0x5f_Tesla_ui_LeftScreen_IndicatorBar_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _0x5f_Tesla_ui_CalendarPopup_qml { 
+namespace _0x5f_Tesla_ui_CustomCalendar_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -129,7 +129,7 @@ Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/Tesla/ui/BottomBar/RightIcons.qml"), &QmlCacheGeneratedCode::_0x5f_Tesla_ui_BottomBar_RightIcons_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/Tesla/ui/LeftScreen/Battery.qml"), &QmlCacheGeneratedCode::_0x5f_Tesla_ui_LeftScreen_Battery_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/Tesla/ui/LeftScreen/IndicatorBar.qml"), &QmlCacheGeneratedCode::_0x5f_Tesla_ui_LeftScreen_IndicatorBar_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/Tesla/ui/CalendarPopup.qml"), &QmlCacheGeneratedCode::_0x5f_Tesla_ui_CalendarPopup_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/Tesla/ui/CustomCalendar.qml"), &QmlCacheGeneratedCode::_0x5f_Tesla_ui_CustomCalendar_qml::unit);
     resourcePathToCachedUnit.insert(QStringLiteral("/Tesla/ui/BottomBar/ChatBotPopup.qml"), &QmlCacheGeneratedCode::_0x5f_Tesla_ui_BottomBar_ChatBotPopup_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;

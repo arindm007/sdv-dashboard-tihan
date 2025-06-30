@@ -6914,6 +6914,18 @@
 			"value" : "/home/tihan-12/Qt/6.9.1/gcc_64/lib/cmake/Qt6Concurrent"
 		},
 		{
+			"name" : "Qt6Controls_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt6Controls."
+				}
+			],
+			"type" : "PATH",
+			"value" : "Qt6Controls_DIR-NOTFOUND"
+		},
+		{
 			"name" : "Qt6CorePrivate_DIR",
 			"properties" : 
 			[

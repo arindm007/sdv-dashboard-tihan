@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 77,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 29
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 37,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 25
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 26
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 35
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 19,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 34
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 43
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 18,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 41
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 38,
+                        "durationMicroseconds": 41,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 63
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 30,
+                        "durationMicroseconds": 31,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 59
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 17,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 67
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 76
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 23,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 20,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "onExited",
                         "line": 79
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 44,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 81
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 37,
+                        "durationMicroseconds": 39,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 95
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 68,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 91
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 93
@@ -238,7 +238,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 100
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 22,
-                        "durationMicroseconds": 12,
+                        "durationMicroseconds": 9,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "opacity",
                         "line": 102
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 108
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 24,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 25,
                         "errorMessage": "Cannot access value for name iconHoverOpacity",
                         "functionName": "onEntered",
                         "line": 110
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 42,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 113
@@ -294,7 +294,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 16,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 106
@@ -302,7 +302,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 37,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 127
@@ -318,7 +318,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 123
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 125
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 22,
-                        "durationMicroseconds": 10,
+                        "durationMicroseconds": 9,
                         "errorMessage": "Cannot access value for name iconOpacity",
                         "functionName": "opacity",
                         "line": 134
@@ -350,7 +350,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 17,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 131
@@ -358,7 +358,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 140
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 24,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 42,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 145
@@ -390,7 +390,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 16,
+                        "durationMicroseconds": 15,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 138

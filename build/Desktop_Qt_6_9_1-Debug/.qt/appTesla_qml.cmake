@@ -26,8 +26,8 @@ set(src_and_dest_list
     "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/ui/LeftScreen/Battery.qml"
     "/home/tihan-12/Documents/sdv-dashboard-tihan/ui/LeftScreen/IndicatorBar.qml"
     "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/ui/LeftScreen/IndicatorBar.qml"
-    "/home/tihan-12/Documents/sdv-dashboard-tihan/ui/CalendarPopup.qml"
-    "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/ui/CalendarPopup.qml"
+    "/home/tihan-12/Documents/sdv-dashboard-tihan/ui/CustomCalendar.qml"
+    "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/ui/CustomCalendar.qml"
     "/home/tihan-12/Documents/sdv-dashboard-tihan/ui/BottomBar/ChatBotPopup.qml"
     "/home/tihan-12/Documents/sdv-dashboard-tihan/build/Desktop_Qt_6_9_1-Debug/Tesla/ui/BottomBar/ChatBotPopup.qml"
 

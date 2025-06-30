@@ -59,9 +59,12 @@ Popup {
                     radius: 4
                 }
 
+                // ✅ FIXED: Ensure long messages wrap and stay within bounds
                 Label {
                     text: sender + ": " + message
                     wrapMode: Text.Wrap
+                    width: parent.width - 16        // ⬅ limit width to prevent overflow
+                    horizontalAlignment: Text.AlignLeft
                 }
             }
         }
@@ -92,57 +95,54 @@ Popup {
 
     function sendMessage() {
         const trimmed = inputField.text.trim();
-            if (trimmed.length > 0) {
-                // Append user message to chat
-                messageList.model.append({
-                    sender: "You",
-                    message: trimmed
-                });
+        if (trimmed.length > 0) {
+            messageList.model.append({
+                sender: "You",
+                message: trimmed
+            });
 
-                // Clear the input
-                inputField.text = "";
+            inputField.text = "";
 
-                // Send to Rasa backend
-                var xhr = new XMLHttpRequest();
-                var rasaEndpoint = "http://localhost:5005/webhooks/rest/webhook";  // ← Update with your Rasa endpoint
+            var xhr = new XMLHttpRequest();
+            var rasaEndpoint = "http://localhost:5005/webhooks/rest/webhook";
 
-                xhr.open("POST", rasaEndpoint);
-                xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.open("POST", rasaEndpoint);
+            xhr.setRequestHeader("Content-Type", "application/json");
 
-                xhr.onreadystatechange = function() {
-                    if (xhr.readyState === XMLHttpRequest.DONE) {
-                        if (xhr.status === 200) {
-                            var response = JSON.parse(xhr.responseText);
-                            if (response.length > 0) {
-                                for (var i = 0; i < response.length; i++) {
-                                    if (response[i].text) {
-                                        messageList.model.append({
-                                            sender: "Mechanic",
-                                            message: response[i].text
-                                        });
-                                    }
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    if (xhr.status === 200) {
+                        var response = JSON.parse(xhr.responseText);
+                        if (response.length > 0) {
+                            for (var i = 0; i < response.length; i++) {
+                                if (response[i].text) {
+                                    messageList.model.append({
+                                        sender: "Mechanic",
+                                        message: response[i].text
+                                    });
                                 }
-                            } else {
-                                messageList.model.append({
-                                    sender: "Mechanic",
-                                    message: "No response from Rasa."
-                                });
                             }
                         } else {
-                            console.log("Error contacting Rasa:", xhr.statusText);
                             messageList.model.append({
                                 sender: "Mechanic",
-                                message: "Error contacting Mechanic."
+                                message: "No response from Rasa."
                             });
                         }
+                    } else {
+                        console.log("Error contacting Rasa:", xhr.statusText);
+                        messageList.model.append({
+                            sender: "Mechanic",
+                            message: "Error contacting Mechanic."
+                        });
                     }
-                };
+                }
+            };
 
-                var payload = JSON.stringify({
-                    sender: "user",
-                    message: trimmed
-                });
-                xhr.send(payload);
-            }
+            var payload = JSON.stringify({
+                sender: "user",
+                message: trimmed
+            });
+            xhr.send(payload);
         }
+    }
 }

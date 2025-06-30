@@ -47,8 +47,17 @@ qt_add_qml_module(appTesla
     RESOURCES assets/play.png
     RESOURCES assets/next.png
     RESOURCES assets/backward.png
+    RESOURCES assets/home.png
+    RESOURCES assets/hostel.png
+    RESOURCES assets/maingate.png
+    RESOURCES assets/map.png
+    RESOURCES assets/testbed.png
+    RESOURCES assets/player.png
+    RESOURCES assets/chatbot.png
+    RESOURCES assets/aibot.png
+    RESOURCES assets/logo.png
 
-    QML_FILES ui/CalendarPopup.qml
+    QML_FILES ui/CustomCalendar.qml
     RESOURCES assets/support.png
     QML_FILES ui/BottomBar/ChatBotPopup.qml
 )

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 12,
-                        "durationMicroseconds": 86,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 16,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 8
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 14,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 9
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "plugin",
                         "line": 30
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 17,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 56,
                         "errorMessage": "",
                         "functionName": "center",
                         "line": 31
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 17,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 29
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 30,
-                        "durationMicroseconds": 147,
+                        "durationMicroseconds": 151,
                         "errorMessage": "",
                         "functionName": "onActiveChanged",
                         "line": 38
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 12,
+                        "durationMicroseconds": 13,
                         "errorMessage": "",
                         "functionName": "onScaleChanged",
                         "line": 42
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 30,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "grabPermissions",
                         "line": 53
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 30,
-                        "durationMicroseconds": 204,
+                        "durationMicroseconds": 210,
                         "errorMessage": "",
                         "functionName": "acceptedDevices",
                         "line": 58
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "rotationScale",
                         "line": 62
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 35,
-                        "durationMicroseconds": 11,
+                        "durationMicroseconds": 12,
                         "errorMessage": "",
                         "functionName": "onTranslationChanged",
                         "line": 69
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 25,
+                        "durationMicroseconds": 26,
                         "errorMessage": "",
                         "functionName": "sequence",
                         "line": 74
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 86,
                         "errorMessage": "",
                         "functionName": "onActivated",
                         "line": 75
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 22,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 49,
                         "errorMessage": "",
                         "functionName": "enabled",
                         "line": 79
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 69,
+                        "durationMicroseconds": 70,
                         "errorMessage": "",
                         "functionName": "onActivated",
                         "line": 81
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 16,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 40,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 92
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 21,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 93
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 88
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 18,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 89
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 102
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 115
@@ -254,7 +254,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 126
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 21,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 128
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 33,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 141
@@ -294,7 +294,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 18,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 142

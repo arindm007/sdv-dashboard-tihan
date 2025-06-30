@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 30,
-                        "durationMicroseconds": 68,
+                        "durationMicroseconds": 73,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "currentMonth",
                         "line": 11
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 29,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 38,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "currentYear",
                         "line": 12
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 19,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 24,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 17
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 33,
-                        "durationMicroseconds": 32,
+                        "durationMicroseconds": 33,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 22
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 15,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 59,
                         "errorMessage": "Cannot access value for name currentYear",
                         "functionName": "text",
                         "line": 37
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 33,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 57
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 16,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 89,
                         "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
                         "functionName": "model",
                         "line": 62
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 17,
-                        "durationMicroseconds": 134,
+                        "durationMicroseconds": 128,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 64
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 32,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 67
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 23,
+                        "durationMicroseconds": 22,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 68
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 29,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 20,
                         "errorMessage": "Cannot access value for name index",
                         "functionName": "day",
                         "line": 82
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 20,
-                        "durationMicroseconds": 13,
+                        "durationMicroseconds": 14,
                         "errorMessage": "Cannot access value for name isCurrentMonth",
                         "functionName": "color",
                         "line": 88
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 22,
-                        "durationMicroseconds": 10,
+                        "durationMicroseconds": 9,
                         "errorMessage": "Cannot access value for name isCurrentMonth",
                         "functionName": "enabled",
                         "line": 93
